@@ -1,0 +1,44 @@
+﻿<div id="Desktop" data-tchmi-type="TcHmi.Controls.System.TcHmiView" data-tchmi-top="0" data-tchmi-left="0" data-tchmi-width-mode="Content" data-tchmi-min-width="100" data-tchmi-min-width-unit="%" data-tchmi-height-mode="Content" data-tchmi-min-height="100" data-tchmi-min-height-unit="%">
+  <div id="ViewDesktopBeckhoffLogo" data-tchmi-type="TcHmi.Controls.Beckhoff.TcHmiImage" data-tchmi-src="Images/Beckhoff_Logo.svg" data-tchmi-left="20" data-tchmi-top="20" data-tchmi-width="194" data-tchmi-height="57">
+
+  </div>
+<div id="TcHmi_Controls_Bar_Flat_Bar_FlatControl" data-tchmi-type="TcHmi.Controls.Bar_Flat.Bar_FlatControl" data-tchmi-control-alarmval="90" data-tchmi-control-data="%s%PLC1.MAIN.val%/s%" data-tchmi-control-show-percent="True" data-tchmi-control-show-title="True" data-tchmi-control-title="Title" data-tchmi-control-warningval="60" data-tchmi-height="107" data-tchmi-height-unit="px" data-tchmi-left="46" data-tchmi-left-unit="px" data-tchmi-top="133" data-tchmi-top-unit="px" data-tchmi-width="293" data-tchmi-width-unit="px">
+<script data-tchmi-target-attribute="data-tchmi-control-gauge-fill-color-nm" type="application/json">
+#00ffff
+</script>
+<script data-tchmi-target-attribute="data-tchmi-control-gauge-fill-color-wn" type="application/json">
+#f1f218
+</script>
+<script data-tchmi-target-attribute="data-tchmi-control-gauge-fill-color-al" type="application/json">
+#ff4646
+</script>
+
+</div>
+
+<div id="TcHmi_Controls_Gauge_Flat_SemiCircle_Gauge_Flat_SemiCircleControl" data-tchmi-type="TcHmi.Controls.Gauge_Flat_SemiCircle.Gauge_Flat_SemiCircleControl" data-tchmi-control-alarmval="90" data-tchmi-control-data="%s%PLC1.MAIN.nvar%/s%" data-tchmi-control-show-percent="True" data-tchmi-control-show-title="True" data-tchmi-control-title="Title" data-tchmi-control-warningval="60" data-tchmi-height="149" data-tchmi-height-unit="px" data-tchmi-left="46" data-tchmi-left-unit="px" data-tchmi-top="334" data-tchmi-top-unit="px" data-tchmi-width="282" data-tchmi-width-unit="px">
+<script data-tchmi-target-attribute="data-tchmi-control-gauge-fill-color-nm" type="application/json">
+#00ffff
+</script>
+<script data-tchmi-target-attribute="data-tchmi-control-gauge-fill-color-wn" type="application/json">
+#f1f218
+</script>
+<script data-tchmi-target-attribute="data-tchmi-control-gauge-fill-color-al" type="application/json">
+#ff4646
+</script>
+
+</div>
+
+<div id="TcHmi_Controls_Gauge_Flat_Circle_Gauge_Flat_CircleControl_1" data-tchmi-type="TcHmi.Controls.Gauge_Flat_Circle.Gauge_Flat_CircleControl" data-tchmi-control-alarmval="90" data-tchmi-control-data="%s%PLC1.MAIN.val%/s%" data-tchmi-control-show-percent="True" data-tchmi-control-show-title="True" data-tchmi-control-title="Title" data-tchmi-control-warningval="60" data-tchmi-height="186" data-tchmi-height-unit="px" data-tchmi-left="403" data-tchmi-left-unit="px" data-tchmi-top="148" data-tchmi-top-unit="px" data-tchmi-width="225" data-tchmi-width-unit="px">
+<script data-tchmi-target-attribute="data-tchmi-control-gauge-fill-color-nm" type="application/json">
+#00ffff
+</script>
+<script data-tchmi-target-attribute="data-tchmi-control-gauge-fill-color-wn" type="application/json">
+#f1f218
+</script>
+<script data-tchmi-target-attribute="data-tchmi-control-gauge-fill-color-al" type="application/json">
+#ff4646
+</script>
+
+</div>
+
+</div>

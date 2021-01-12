@@ -54,6 +54,18 @@
   <Import Project="$(TwinCATHmi_Tasks)" />
   <Import Project="$(TwinCATHmi_Targets)" />
   <ItemGroup>
+    <Content Include="Bar_FlatControl\Fonts\comic.ttf">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Bar_FlatControl\Fonts\comicbd.ttf">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Bar_FlatControl\Fonts\comici.ttf">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Bar_FlatControl\Fonts\comicz.ttf">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="tsconfig.tpl.json">
       <SubType>Content</SubType>
       <Visible>true</Visible>
@@ -90,6 +102,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Bar_FlatControl\" />
+    <Folder Include="Bar_FlatControl\Fonts" />
     <Folder Include="Bar_FlatControl\Icons\" />
     <Folder Include="Bar_FlatControl\Schema\" />
     <Folder Include="Bar_FlatControl\Themes\" />
